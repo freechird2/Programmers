@@ -10,5 +10,5 @@
 - test
 
 
-[level0]: https://github.com/freechird2/Programmers/tree/main/src/practice
-[level0_0]: https://naver.com
+[level0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level0
+[level0_0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level0/
