@@ -4,10 +4,11 @@
 
 ### 목차
 - practice
-  - level0
+  - [level0][level0]
     - [옹알이][level0_0]
   - level1
 - test
 
 
+[level0]: https://github.com/freechird2/Programmers/tree/main/src/practice
 [level0_0]: https://naver.com
