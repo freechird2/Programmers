@@ -16,6 +16,7 @@
   - [level1][level1]
     - [카드 뭉치][level1_0]
     - [둘만의 암호][level1_1]
+    - [개인정보 수집 유효기간][level1_2]
 - test
   - [test Level0][test0]
 
@@ -30,4 +31,5 @@
 [level1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1
 [level1_0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98
 [level1_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8
+[level1_2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
