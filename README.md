@@ -15,6 +15,7 @@
     - [7의 개수][level0_6]
   - [level1][level1]
     - [카드 뭉치][level1_0]
+    - [둘만의 암호][level1_1]
 - test
   - [test Level0][test0]
 
@@ -28,4 +29,5 @@
 [level0_6]: https://github.com/freechird2/Programmers/tree/main/src/practice/level0/7%EC%9D%98%20%EA%B0%9C%EC%88%98
 [level1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1
 [level1_0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%B9%B4%EB%93%9C%20%EB%AD%89%EC%B9%98
+[level1_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
