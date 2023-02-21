@@ -14,7 +14,7 @@
     - [7의 개수][level0_6]
   - level1
 - test
-  - [test0][test0]
+  - [test Level0][test0]
 
 
 [level0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level0
