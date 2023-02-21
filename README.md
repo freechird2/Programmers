@@ -18,6 +18,7 @@
     - [둘만의 암호][level1_1]
     - [개인정보 수집 유효기간][level1_2]
     - [크기가 작은 부분문자열][level1_3]
+    - [가장 가까운 같은 글자][level1_4]
 - test
   - [test Level0][test0]
 
@@ -34,4 +35,5 @@
 [level1_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%91%98%EB%A7%8C%EC%9D%98%20%EC%95%94%ED%98%B8
 [level1_2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84
 [level1_3]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4
+[level1_4]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
