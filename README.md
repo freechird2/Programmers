@@ -19,6 +19,7 @@
     - [개인정보 수집 유효기간][level1_2]
     - [크기가 작은 부분문자열][level1_3]
     - [가장 가까운 같은 글자][level1_4]
+    - [명예의 전당 (1)][level1_5]
 - test
   - [test Level0][test0]
 
@@ -36,4 +37,5 @@
 [level1_2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4%20%EC%88%98%EC%A7%91%20%EC%9C%A0%ED%9A%A8%EA%B8%B0%EA%B0%84
 [level1_3]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%ED%81%AC%EA%B8%B0%EA%B0%80%20%EC%9E%91%EC%9D%80%20%EB%B6%80%EB%B6%84%EB%AC%B8%EC%9E%90%EC%97%B4
 [level1_4]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B0%80%EC%9E%A5%20%EA%B0%80%EA%B9%8C%EC%9A%B4%20%EA%B0%99%EC%9D%80%20%EA%B8%80%EC%9E%90
+[level1_5]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9%20(1)
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
