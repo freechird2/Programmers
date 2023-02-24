@@ -22,6 +22,7 @@
     - [명예의 전당 (1)][level1_5]
     - [기사단원의 무기][level1_6]
     - [과일 장수][level1_7]
+    - [푸드 파이트 대회][level1_8]
 - test
   - [test Level0][test0]
 
@@ -42,4 +43,5 @@
 [level1_5]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%AA%85%EC%98%88%EC%9D%98%20%EC%A0%84%EB%8B%B9%20(1)
 [level1_6]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0
 [level1_7]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98
+[level1_8]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
