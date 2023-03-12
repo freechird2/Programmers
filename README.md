@@ -23,6 +23,7 @@
     - [기사단원의 무기][level1_6]
     - [과일 장수][level1_7]
     - [푸드 파이트 대회][level1_8]
+    - [바탕화면 정리][level1_9]
 - test
   - [test Level0][test0]
 
@@ -44,4 +45,5 @@
 [level1_6]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B8%B0%EC%82%AC%EB%8B%A8%EC%9B%90%EC%9D%98%20%EB%AC%B4%EA%B8%B0
 [level1_7]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B3%BC%EC%9D%BC%20%EC%9E%A5%EC%88%98
 [level1_8]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%ED%91%B8%EB%93%9C%20%ED%8C%8C%EC%9D%B4%ED%8A%B8%20%EB%8C%80%ED%9A%8C
+[level1_9]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%B0%94%ED%83%95%ED%99%94%EB%A9%B4%20%EC%A0%95%EB%A6%AC
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
