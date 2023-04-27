@@ -29,6 +29,7 @@
         -   [성격 유형 검사하기][level1_12]
         -   [신고 결과 받기][level1_13]
         -   [달리기 경주][level1_14]
+        -   [공원 산책][level1_15]
 -   test
     -   [test Level0][test0]
 
@@ -56,4 +57,5 @@
 [level1_12]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0
 [level1_13]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0
 [level1_14]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC
+[level1_15]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
