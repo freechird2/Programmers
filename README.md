@@ -28,7 +28,7 @@
         -   [덧칠 하기][level1_11]
         -   [성격 유형 검사하기][level1_12]
         -   [신고 결과 받기][level1_13]
-        -   [달리기 ][level1_14]
+        -   [달리기 경주][level1_14]
 -   test
     -   [test Level0][test0]
 
