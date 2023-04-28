@@ -34,6 +34,7 @@
         -   [옹알이2][level1_17]
         -   [콜라 문제][level1_18]
         -   [삼총사][level1_19]
+    -   [level2][level2]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -67,5 +68,7 @@
 [level1_17]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%98%B9%EC%95%8C%EC%9D%B42
 [level1_18]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C
 [level1_19]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%82%BC%EC%B4%9D%EC%82%AC
+[level2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2
+[level2_0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%9A%94%EA%B2%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
