@@ -36,6 +36,7 @@
         -   [삼총사][level1_19]
     -   [level2][level2]
         -   [요격 시스템][level2_0]
+        -   [124 나라의 숫자][level2_1]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -71,5 +72,6 @@
 [level1_19]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%82%BC%EC%B4%9D%EC%82%AC
 [level2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2
 [level2_0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%9A%94%EA%B2%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C
+[level2_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
