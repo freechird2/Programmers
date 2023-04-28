@@ -30,6 +30,7 @@
         -   [신고 결과 받기][level1_13]
         -   [달리기 경주][level1_14]
         -   [공원 산책][level1_15]
+        -   [햄버거 만들기][level1_16]
 -   test
     -   [test Level0][test0]
 
@@ -58,4 +59,5 @@
 [level1_13]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0
 [level1_14]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%8B%AC%EB%A6%AC%EA%B8%B0%20%EA%B2%BD%EC%A3%BC
 [level1_15]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B3%B5%EC%9B%90%20%EC%82%B0%EC%B1%85
+[level1_16]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
