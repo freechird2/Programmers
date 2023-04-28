@@ -36,6 +36,7 @@
         -   [삼총사][level1_19]
 -   test
     -   [test Level0][test0]
+    -   [test Level1][test1]
 
 [level0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level0
 [level0_0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level0/옹알이
@@ -67,3 +68,4 @@
 [level1_18]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C
 [level1_19]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%82%BC%EC%B4%9D%EC%82%AC
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
+[test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
