@@ -32,6 +32,7 @@
         -   [공원 산책][level1_15]
         -   [햄버거 만들기][level1_16]
         -   [옹알이2][level1_17]
+        -   [콜라 문제][level1_18]
 -   test
     -   [test Level0][test0]
 
@@ -62,4 +63,5 @@
 [level1_15]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B3%B5%EC%9B%90%20%EC%82%B0%EC%B1%85
 [level1_16]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%ED%96%84%EB%B2%84%EA%B1%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0
 [level1_17]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%98%B9%EC%95%8C%EC%9D%B42
+[level1_18]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%BD%9C%EB%9D%BC%20%EB%AC%B8%EC%A0%9C
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
