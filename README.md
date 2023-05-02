@@ -44,6 +44,7 @@
         -   [행렬의 곱셈][level2_6]
         -   [하노이의 탑][level2_7]
         -   [피보나치 수][level2_8]
+        -   [최솟값 만들기][level2_9]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -87,5 +88,6 @@
 [level2_6]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88
 [level2_7]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91
 [level2_8]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98%20%EC%88%98
+[level2_9]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%B5%9C%EC%86%9F%EA%B0%92%20%EB%A7%8C%EB%93%A4%EA%B8%B0
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
