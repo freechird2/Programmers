@@ -39,6 +39,7 @@
         -   [124 나라의 숫자][level2_1]
         -   [짝지어 제거하기][level2_2]
         -   [N개의 최소공배수][level2_3]
+        -   [N-Queen][level2_4]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -77,5 +78,6 @@
 [level2_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90
 [level2_2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%A7%9D%EC%A7%80%EC%96%B4%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0
 [level2_3]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/N%EA%B0%9C%EC%9D%98%20%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98
+[level2_4]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/N-Queen
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
