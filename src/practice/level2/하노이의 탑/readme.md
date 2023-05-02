@@ -31,6 +31,9 @@
 다음과 같이 옮길 수 있습니다.
 
 ![Image Description](https://i.imgur.com/SWEqD08.png)
+
 ![Image Description](https://i.imgur.com/mrmOzV2.png)
+
 ![Image Description](https://i.imgur.com/Ent83gA.png)
+
 ![Image Description](https://i.imgur.com/osJFfhF.png)
