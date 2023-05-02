@@ -42,6 +42,7 @@
         -   [N-Queen][level2_4]
         -   [JadenCase 문자열 만들기][level2_5]
         -   [행렬의 곱셈][level2_6]
+        -   [하노이의 탑][level2_7]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -83,5 +84,6 @@
 [level2_4]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/N-Queen
 [level2_5]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/JadenCase%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0
 [level2_6]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%96%89%EB%A0%AC%EC%9D%98%20%EA%B3%B1%EC%85%88
+[level2_7]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
