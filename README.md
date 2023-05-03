@@ -51,6 +51,7 @@
         -   [올바른 괄호][level2_13]
         -   [2 x n 타일링][level2_14]
         -   [두 원 사이의 정수 쌍][level2_15]
+        -   [연속된 부분 수열의 합][level2_16]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -101,5 +102,6 @@
 [level2_13]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8
 [level2_14]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81
 [level2_15]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%91%90%20%EC%9B%90%20%EC%82%AC%EC%9D%B4%EC%9D%98%20%EC%A0%95%EC%88%98%20%EC%8C%8D
+[level2_16]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%97%B0%EC%86%8D%EB%90%9C%20%EB%B6%80%EB%B6%84%20%EC%88%98%EC%97%B4%EC%9D%98%20%ED%95%A9
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
