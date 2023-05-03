@@ -49,6 +49,7 @@
         -   [줄 서는 방법][level2_11]
         -   [숫자의 표현][level2_12]
         -   [올바른 괄호][level2_13]
+        -   [2 x n 타일링][level2_14]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -97,5 +98,6 @@
 [level2_11]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95
 [level2_12]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%88%AB%EC%9E%90%EC%9D%98%20%ED%91%9C%ED%98%84
 [level2_13]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%98%AC%EB%B0%94%EB%A5%B8%20%EA%B4%84%ED%98%B8
+[level2_14]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/2%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
