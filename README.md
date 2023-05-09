@@ -58,6 +58,7 @@
         -   [다음 큰 숫자][level2_20]
         -   [멀리 뛰기][level2_21]
         -   [카펫][level2_22]
+        -   [의상][level2_23]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -115,5 +116,6 @@
 [level2_20]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90
 [level2_21]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0
 [level2_22]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%B9%B4%ED%8E%AB
+[level2_23]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%9D%98%EC%83%81
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
