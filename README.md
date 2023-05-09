@@ -55,6 +55,7 @@
         -   [과제 진행하기][level2_17]
         -   [광물 캐기][level2_18]
         -   [리코쳇 로봇][level2_19]
+        -   [다음 큰 숫자][level2_20]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -109,5 +110,6 @@
 [level2_17]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EA%B3%BC%EC%A0%9C%20%EC%A7%84%ED%96%89%ED%95%98%EA%B8%B0
 [level2_18]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EA%B4%91%EB%AC%BC%20%EC%BA%90%EA%B8%B0
 [level2_19]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%A6%AC%EC%BD%94%EC%B3%87%20%EB%A1%9C%EB%B4%87
+[level2_20]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%8B%A4%EC%9D%8C%20%ED%81%B0%20%EC%88%AB%EC%9E%90
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
