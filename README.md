@@ -62,6 +62,7 @@
         -   [기능개발][level2_24]
         -   [프로세스][level2_25]
         -   [다리를 지나는 트럭][level2_26]
+        -   [소수 찾기][level2_27]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -123,5 +124,6 @@
 [level2_24]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C
 [level2_25]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4
 [level2_26]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD
+[level2_27]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
