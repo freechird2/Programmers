@@ -64,6 +64,7 @@
         -   [다리를 지나는 트럭][level2_26]
         -   [소수 찾기][level2_27]
         -   [가장 큰 수][level2_28]
+        -   [[3차]n진수 게임][level2_29]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -127,5 +128,7 @@
 [level2_26]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%20%EC%A7%80%EB%82%98%EB%8A%94%20%ED%8A%B8%EB%9F%AD
 [level2_27]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0
 [level2_28]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98
+
+[level2_29]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/[3%EC%B0%A8]n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
