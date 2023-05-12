@@ -65,6 +65,7 @@
         -   [소수 찾기][level2_27]
         -   [가장 큰 수][level2_28]
         -   [[3차]n진수 게임][level2_29]
+        -   [[1차]뉴스 클러스터링][level2_30]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -130,5 +131,6 @@
 [level2_28]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EA%B0%80%EC%9E%A5%20%ED%81%B0%20%EC%88%98
 
 [level2_29]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/[3%EC%B0%A8]n%EC%A7%84%EC%88%98%20%EA%B2%8C%EC%9E%84
+[level2_30]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/[1%EC%B0%A8]%EB%89%B4%EC%8A%A4%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
