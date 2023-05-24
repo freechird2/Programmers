@@ -70,6 +70,7 @@
         -   [예상 대진표][level2_32]
         -   [영어 끝말잇기][level2_33]
         -   [자물쇠와 열쇠][level2_34]
+        -   [부대복귀][level2_35]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -140,5 +141,6 @@
 [level2_32]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%98%88%EC%83%81%20%EB%8C%80%EC%A7%84%ED%91%9C
 [level2_33]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0
 [level2_34]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0
+[level2_35]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
