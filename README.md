@@ -80,6 +80,7 @@
         -   [야근 지수][level3_7]
         -   [단어 변환][level3_8]
         -   [단속카메라][level3_9]
+        -   [숫자 게임][level3_10]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -160,5 +161,6 @@
 [level3_7]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98
 [level3_8]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98
 [level3_9]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC
+[level3_10]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
