@@ -47,7 +47,7 @@ N개의 아파트가 일렬로 쭉 늘어서 있습니다. 이 중에서 일부 
 
 입출력 예 #2
 
--   초기에, 1~6, 12~16번째 아파트에는 전파가 전달되지 않습니다.
+-   초기에, 1\~6, 12\~16번째 아파트에는 전파가 전달되지 않습니다.
 
 ![Image Description](https://grepp-programmers.s3.ap-northeast-2.amazonaws.com/files/production/1d766102-f684-4643-bea2-02daea82e710/%E1%84%80%E1%85%B5%E1%84%8C%E1%85%B5%E1%84%80%E1%85%AE%E1%86%A8%E1%84%89%E1%85%A5%E1%86%AF%E1%84%8E%E1%85%B54_nqfrmm.png)
 
