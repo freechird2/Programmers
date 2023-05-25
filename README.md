@@ -81,6 +81,7 @@
         -   [단어 변환][level3_8]
         -   [단속카메라][level3_9]
         -   [숫자 게임][level3_10]
+        -   [기지국 설치][level3_11]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -162,5 +163,6 @@
 [level3_8]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98
 [level3_9]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC
 [level3_10]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84
+[level3_11]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
