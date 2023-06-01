@@ -89,6 +89,7 @@
         -   [섬 연결하기][level3_16]
         -   [여행경로][level3_17]
         -   [디스크 컨트롤러][level3_18]
+        -   [입국심사][level3_19]
 -   test
     -   [test Level0][test0]
     -   [test Level1][test1]
@@ -178,5 +179,6 @@
 [level3_16]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0
 [level3_17]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C
 [level3_18]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC
+[level3_19]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC
 [test0]: https://github.com/freechird2/Programmers/tree/main/src/test/level0
 [test1]: https://github.com/freechird2/Programmers/tree/main/src/test/level1
