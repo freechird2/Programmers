@@ -36,6 +36,7 @@
         -   [삼총사][level1_19]
         -   [가장 많이 받은 선물][level1_20]
         -   [붕대 감기][level1_21]
+        -   [숫자 짝꿍][level1_22]
     -   [level2][level2]
         -   [요격 시스템][level2_0]
         -   [124 나라의 숫자][level2_1]
@@ -127,6 +128,7 @@
 [level1_19]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%82%BC%EC%B4%9D%EC%82%AC
 [level1_20]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EA%B0%80%EC%9E%A5%20%EB%A7%8E%EC%9D%B4%20%EB%B0%9B%EC%9D%80%20%EC%84%A0%EB%AC%BC
 [level1_21]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%B6%95%EB%8C%80%20%EA%B0%90%EA%B8%B0
+[level1_22]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D
 [level2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2
 [level2_0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%9A%94%EA%B2%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C
 [level2_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90
