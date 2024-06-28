@@ -39,6 +39,7 @@
         -   [숫자 짝꿍][level1_22]
         -   [나머지가 1이 되는 수 찾기][level1_23]
         -   [최소직사각형][level1_24]
+        -   [없는 숫자 더하기][level1_25]
     -   [level2][level2]
         -   [요격 시스템][level2_0]
         -   [124 나라의 숫자][level2_1]
@@ -133,6 +134,7 @@
 [level1_22]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%88%AB%EC%9E%90%20%EC%A7%9D%EA%BF%8D
 [level1_23]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EB%82%98%EB%A8%B8%EC%A7%80%EA%B0%80%201%EC%9D%B4%20%EB%90%98%EB%8A%94%20%EC%88%98%20%EC%B0%BE%EA%B8%B0
 [level1_24]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95
+[level1_25]: https://github.com/freechird2/Programmers/tree/main/src/practice/level1/%EC%97%86%EB%8A%94%20%EC%88%AB%EC%9E%90%20%EB%8D%94%ED%95%98%EA%B8%B0
 [level2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2
 [level2_0]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%9A%94%EA%B2%A9%20%EC%8B%9C%EC%8A%A4%ED%85%9C
 [level2_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/124%20%EB%82%98%EB%9D%BC%EC%9D%98%20%EC%88%AB%EC%9E%90
