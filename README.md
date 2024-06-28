@@ -77,6 +77,7 @@
         -   [영어 끝말잇기][level2_33]
         -   [자물쇠와 열쇠][level2_34]
         -   [뒤에 있는 큰 수 찾기][level2_35]
+        -   [귤 고르기][level2_36]
     -   [level3][level3]
         -   [부대복귀][level3_1]
         -   [등대][level3_2]
@@ -174,6 +175,7 @@
 [level2_33]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%98%81%EC%96%B4%20%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0
 [level2_34]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0
 [level2_35]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0
+[level2_36]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0
 [level3]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3
 [level3_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80
 [level3_2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%93%B1%EB%8C%80
