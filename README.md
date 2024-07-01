@@ -79,6 +79,7 @@
         -   [뒤에 있는 큰 수 찾기][level2_35]
         -   [귤 고르기][level2_36]
         -   [롤케이크 자르기][level2_37]
+        -   [택배상자][level2_38]
     -   [level3][level3]
         -   [부대복귀][level3_1]
         -   [등대][level3_2]
@@ -178,6 +179,7 @@
 [level2_35]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%92%A4%EC%97%90%20%EC%9E%88%EB%8A%94%20%ED%81%B0%20%EC%88%98%20%EC%B0%BE%EA%B8%B0
 [level2_36]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EA%B7%A4%20%EA%B3%A0%EB%A5%B4%EA%B8%B0
 [level2_37]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0
+[level2_38]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90
 [level3]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3
 [level3_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80
 [level3_2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%93%B1%EB%8C%80
