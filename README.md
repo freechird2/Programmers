@@ -81,6 +81,7 @@
         -   [롤케이크 자르기][level2_37]
         -   [택배상자][level2_38]
         -   [점 찍기][level2_39]
+        -   [게임 맵 최단거리][level2_40]
     -   [level3][level3]
         -   [부대복귀][level3_1]
         -   [등대][level3_2]
@@ -182,6 +183,7 @@
 [level2_37]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%20%EC%9E%90%EB%A5%B4%EA%B8%B0
 [level2_38]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90
 [level2_39]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%A0%90%20%EC%B0%8D%EA%B8%B0
+[level2_40]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EA%B2%8C%EC%9E%84%20%EB%A7%B5%20%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC
 [level3]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3
 [level3_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80
 [level3_2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%93%B1%EB%8C%80
