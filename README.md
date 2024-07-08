@@ -85,6 +85,7 @@
         -   [피로도][level2_41]
         -   [주차 요금 계산][level2_42]
         -   [할인행사][level2_43]
+        -   [두 큐 합 같게 만들기][level2_44]
     -   [level3][level3]
         -   [부대복귀][level3_1]
         -   [등대][level3_2]
@@ -190,6 +191,7 @@
 [level2_41]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%94%BC%EB%A1%9C%EB%8F%84
 [level2_42]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%A3%BC%EC%B0%A8%20%EC%9A%94%EA%B8%88%20%EA%B3%84%EC%82%B0
 [level2_43]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%95%A0%EC%9D%B8%ED%96%89%EC%82%AC
+[level2_44]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%91%90%20%ED%81%90%20%ED%95%A9%20%EA%B0%99%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0
 [level3]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3
 [level3_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80
 [level3_2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%93%B1%EB%8C%80
