@@ -88,6 +88,7 @@
         -   [두 큐 합 같게 만들기][level2_44]
         -   [전력망을 둘로 나누기][level2_45]
         -   [타겟 넘버][level2_46]
+        -   [스킬트리][level2_47]
     -   [level3][level3]
         -   [부대복귀][level3_1]
         -   [등대][level3_2]
@@ -196,6 +197,7 @@
 [level2_44]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EB%91%90%20%ED%81%90%20%ED%95%A9%20%EA%B0%99%EA%B2%8C%20%EB%A7%8C%EB%93%A4%EA%B8%B0
 [level2_45]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%A0%84%EB%A0%A5%EB%A7%9D%EC%9D%84%20%EB%91%98%EB%A1%9C%20%EB%82%98%EB%88%84%EA%B8%B0
 [level2_46]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84
+[level2_47]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC
 [level3]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3
 [level3_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80
 [level3_2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%93%B1%EB%8C%80
