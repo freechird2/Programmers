@@ -92,6 +92,7 @@
         -   [오픈채팅방][level2_48]
         -   [후보키][level2_49]
         -   [주식가격][level2_50]
+        -   [전화번호 목록][level2_51]
     -   [level3][level3]
         -   [부대복귀][level3_1]
         -   [등대][level3_2]
@@ -204,7 +205,7 @@
 [level2_48]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9
 [level2_49]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%ED%9B%84%EB%B3%B4%ED%82%A4
 [level2_50]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9
-
+[level2_51]: https://github.com/freechird2/Programmers/tree/main/src/practice/level2/%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%20%EB%AA%A9%EB%A1%9D
 [level3]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3
 [level3_1]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%B6%80%EB%8C%80%EB%B3%B5%EA%B7%80
 [level3_2]: https://github.com/freechird2/Programmers/tree/main/src/practice/level3/%EB%93%B1%EB%8C%80
